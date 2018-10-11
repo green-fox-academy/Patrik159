@@ -1,0 +1,12 @@
+public class HumptyDumpty {
+
+  public static void main(String[] args) {
+
+    // Modify this program to print Humpty Dumpty riddle correctly
+
+    System.out.println("Hello");
+
+
+  }
+
+}

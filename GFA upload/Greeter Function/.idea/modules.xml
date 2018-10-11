@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AppendAFunc/AppendAFunc.iml" filepath="$PROJECT_DIR$/AppendAFunc/AppendAFunc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Greeter Function.iml" filepath="$PROJECT_DIR$/Greeter Function.iml" />
+    </modules>
+  </component>
+</project>

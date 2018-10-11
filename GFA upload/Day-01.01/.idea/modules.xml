@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AppendAFunc/AppendAFunc.iml" filepath="$PROJECT_DIR$/AppendAFunc/AppendAFunc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day-01.01.iml" filepath="$PROJECT_DIR$/Day-01.01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Summing/Fourth.iml" filepath="$PROJECT_DIR$/Summing/Fourth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrintParams/PrintParams.iml" filepath="$PROJECT_DIR$/PrintParams/PrintParams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Summing/Summing.iml" filepath="$PROJECT_DIR$/Summing/Summing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Third/Third.iml" filepath="$PROJECT_DIR$/Third/Third.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Three/Three.iml" filepath="$PROJECT_DIR$/Three/Three.iml" />
+    </modules>
+  </component>
+</project>
